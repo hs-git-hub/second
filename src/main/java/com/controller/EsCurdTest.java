@@ -12,7 +12,7 @@ import com.repository.DomainRepository;
 @RestController
 @RequestMapping("/test")
 public class EsCurdTest {
-
+// this for you
 	@Autowired
 	private DomainRepository domainRepository;
 	@Autowired
